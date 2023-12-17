@@ -1,4 +1,4 @@
-# realtime-scalable-chat-app
+# realtime-scalable-high-throughput-chat-app
 
 # Turborepo starter
 
